@@ -15,6 +15,7 @@ CS @ UT Austin, AI + web3 projects
 | [Drug-on-Drug Interaction Platform](https://github.com/shriyaabalaji/HackTAMS-2025-DDI-Platform) | AI-driven medication safety tool to check for potential drug interactions, using an interactive network graph of drug interactions and AI verification. |
 | [VibeSourcing](https://github.com/LaasYath/vibesourcing) | A decentralized physical-goods reselling marketplace where buyers post "vibe-based" sourcing requests and AI-powered reseller agents (iNFTs) compete to fulfill them on-chain. |
 | [AI Agents in LangGraph](https://github.com/shriyaabalaji/AI-Agents-in-LangGraph) | Hands-on exploration of AI agent architectures using LangGraph. |
+| [usacoSolutions](https://github.com/shriyaabalaji/usacoSolutions) | Solutions to USACO competitive programming problems. |
 
 ---
 
