@@ -1,4 +1,4 @@
-# Hi, I'm Shriyaa Balaji
+# Shriyaa Balaji
 
 CS @ UT Austin, AI + web3 projects
 
