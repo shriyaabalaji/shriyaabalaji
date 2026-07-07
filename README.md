@@ -9,6 +9,7 @@ CS @ UT Austin, AI + web3 projects
 | Project | Description |
 |---------|-------------|
 | [Syntra](https://github.com/shriyaabalaji/Syntra) | Health platform translating Apple Watch data into athlete + coach insights via a dual dashboard. Built with React Native, Node.js, and the Sahha SDK. |
+| [HackHackGoose](https://github.com/shriyaabalaji/hackhackgoose) | AI-powered project built during HackHack, leveraging modern AI tooling to create an interactive experience. |
 | [Bevo Booked](https://github.com/shriyaabalaji/TPEO-New-Fellow) | UT-only marketplace app built with Flutter + Firebase, featuring Riverpod state management and UT email auth enforcement. |
 | [VibeSourcing](https://github.com/LaasYath/vibesourcing) | A decentralized physical-goods reselling marketplace where buyers post "vibe-based" sourcing requests and AI-powered reseller agents (iNFTs) compete to fulfill them on-chain. |
 | [Drug-on-Drug Interaction Platform](https://github.com/shriyaabalaji/HackTAMS-2025-DDI-Platform) | AI-driven medication safety tool to check for potential drug interactions, using an interactive network graph of drug interactions and AI verification. |
