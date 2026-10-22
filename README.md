@@ -8,6 +8,7 @@ CS @ UT Austin, AI + web3 projects
 
 | Project | Description |
 |---------|-------------|
+| [Rescuing Leftover Cuisine — JPMorgan Chase Data for Good](https://github.com/shriyaabalaji/rlc-website) | Driver matching and ZIP-level rescue analytics for a food-rescue nonprofit's volunteer app, built at the JPMorgan Chase Data for Good hackathon. Scores open pickups for each volunteer driver on proximity, cargo capacity, and availability, and maps rescue-completion gaps across Boston ZIPs. Built with Ruby on Rails, PostgreSQL, JavaScript, and Python/folium. |
 | [GooseGuard](https://github.com/shriyaabalaji/hackhackgoose) | AI security patrol platform where attacker and guardian agents simulate real-time exploit/mitigation loops against codebases. Built with React, Phaser, FastAPI, WebSockets, and LLM agents for vulnerability analysis, patch guidance, and live security visualization. |
 | [Syntra](https://github.com/shriyaabalaji/Syntra) | Health platform translating Apple Watch data into athlete + coach insights via a dual dashboard. Built with React Native, Node.js, and the Sahha SDK. |
 | [Bevo Booked](https://github.com/shriyaabalaji/TPEO-New-Fellow) | UT-only marketplace app built with Flutter + Firebase, featuring Riverpod state management and UT email auth enforcement. |
