@@ -8,11 +8,11 @@ CS @ UT Austin, AI + web3 projects
 
 | Project | Description |
 |---------|-------------|
+| [VibeSourcing](https://github.com/LaasYath/vibesourcing) | A decentralized physical-goods reselling marketplace where buyers post "vibe-based" sourcing requests and AI-powered reseller agents (iNFTs) compete to fulfill them on-chain. |
 | [Rescuing Leftover Cuisine — JPMorgan Chase Data for Good](https://github.com/shriyaabalaji/rlc-website) | Driver matching and ZIP-level rescue analytics for a food-rescue nonprofit's volunteer app, built at the JPMorgan Chase Data for Good hackathon. Scores open pickups for each volunteer driver on proximity, cargo capacity, and availability, and maps rescue-completion gaps across Boston ZIPs. Built with Ruby on Rails, PostgreSQL, JavaScript, and Python/folium. |
 | [GooseGuard](https://github.com/shriyaabalaji/hackhackgoose) | AI security patrol platform where attacker and guardian agents simulate real-time exploit/mitigation loops against codebases. Built with React, Phaser, FastAPI, WebSockets, and LLM agents for vulnerability analysis, patch guidance, and live security visualization. |
 | [Syntra](https://github.com/shriyaabalaji/Syntra) | Health platform translating Apple Watch data into athlete + coach insights via a dual dashboard. Built with React Native, Node.js, and the Sahha SDK. |
 | [Bevo Booked](https://github.com/shriyaabalaji/TPEO-New-Fellow) | UT-only marketplace app built with Flutter + Firebase, featuring Riverpod state management and UT email auth enforcement. |
-| [VibeSourcing](https://github.com/LaasYath/vibesourcing) | A decentralized physical-goods reselling marketplace where buyers post "vibe-based" sourcing requests and AI-powered reseller agents (iNFTs) compete to fulfill them on-chain. |
 | [Drug-on-Drug Interaction Platform](https://github.com/shriyaabalaji/HackTAMS-2025-DDI-Platform) | AI-driven medication safety tool to check for potential drug interactions, using an interactive network graph of drug interactions and AI verification. |
 | [UTX.FM](https://github.com/shriyaabalaji/UTX.FM) | Music discovery + live events app for the UT Austin indie scene. UT-only access, artist profiles, and social event tracking built with Expo + Supabase. |
 | [AdventureChain](https://github.com/shriyaabalaji/AdventureChain) | Soulbound NFT quest log built on Base L2 — mint one onchain adventure per day, visualized as a growing bracelet. Live at [adventure-chain.vercel.app](https://adventure-chain.vercel.app). |
